@@ -5,7 +5,7 @@
  * 如若想使用更多功能，请查考文档中的 【3. config参数说明】 
  * 自行添加属性，以支持更多个性化功能
  */
-const USER_CONFIG = {"APP_ID":" wxaa61dc4789e4fe84","APP_SECRET":" wxaa61dc4789e4fe84","IS_SHOW_COLOR":true,"CALLBACK_TEMPLATE_ID":"LItcc0bwP9SrLP5Y0Zd71_j3rsz3E9sZomDDyuWay-o","CALLBACK_USERS":[{"name":"自己","id":"ounzS6dafnQSf8BFw94BB0PY3j-E"}],"USERS":[{"name":"测试哦","id":"ounzS6QsnPPVVeL3CTUMOgxllYHw","useTemplateId":"EK2d1p3fNCAjRPVzz5L_nlZg0ZOvpReSIHHFl2QmQmo","province":"上海市","city":"上海市","horoscopeDate":"07-03","horoscopeDateType":"今日","openUrl":"https://biuforu.com","festivals":[{"type":"生日","name":"生日","date":"12-16","year":"1991"}],"customizedDateList":[]}],"SWITCH":{"weather":true,"holidaytts":true,"CIBA":true,"oneTalk":false,"earthyLoveWords":false,"momentCopyrighting":true,"poisonChickenSoup":true,"poetry":false,"horoscope":true,"birthdayMessage":true}}
+const USER_CONFIG = {"APP_ID":" wxaa61dc4789e4fe84","APP_SECRET":" 95c4d6277936765fcff8657c27b8dfa9","IS_SHOW_COLOR":true,"CALLBACK_TEMPLATE_ID":"LItcc0bwP9SrLP5Y0Zd71_j3rsz3E9sZomDDyuWay-o","CALLBACK_USERS":[{"name":"自己","id":"ounzS6dafnQSf8BFw94BB0PY3j-E"}],"USERS":[{"name":"测试哦","id":"ounzS6QsnPPVVeL3CTUMOgxllYHw","useTemplateId":"EK2d1p3fNCAjRPVzz5L_nlZg0ZOvpReSIHHFl2QmQmo","province":"上海市","city":"上海市","horoscopeDate":"07-03","horoscopeDateType":"今日","openUrl":"https://biuforu.com","festivals":[{"type":"生日","name":"生日","date":"12-16","year":"1991"}],"customizedDateList":[]}],"SWITCH":{"weather":true,"holidaytts":true,"CIBA":true,"oneTalk":false,"earthyLoveWords":false,"momentCopyrighting":true,"poisonChickenSoup":true,"poetry":false,"horoscope":true,"birthdayMessage":true}}
 
 /**
 {
